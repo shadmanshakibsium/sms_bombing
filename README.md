@@ -17,10 +17,10 @@ pip install requests
 
 pip install colorama
 
-git clone https://github.com/Redeye00007/smsbombing
+git clone https://github.com/shadmanshakibsium/sms_bombing
 
 cd smsbombing
 
-python t_bomb.py
+python sms.py
 
 ```
